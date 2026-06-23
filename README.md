@@ -1,5 +1,8 @@
 # RAVENLOCK v2
 
+<img width="1448" height="1086" alt="rav2" src="https://github.com/user-attachments/assets/f65c6d9c-c5f6-4a50-abd3-37cf7418e32e" />
+
+
 **RAVENLOCK** es un centinela local de integridad para carpetas personales.  
 Crea una línea base de archivos, coloca canarios defensivos, verifica un sello local de baseline y detecta modificaciones masivas, borrados, extensiones sospechosas y cambios sobre archivos canario.
 
@@ -156,8 +159,11 @@ build_windows\BUILD_RELEASE.bat
 
 ---
 
-## Licencia
+# Licencia
+
+<img width="384" height="384" alt="giphy (4)" src="https://github.com/user-attachments/assets/18d64b9e-fba8-493e-8462-f6722e0e64b7" />
+
+**xtr4ng3**
 
 MIT.
 
-**xtr4ng3**
